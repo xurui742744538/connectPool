@@ -7,7 +7,7 @@ import java.util.concurrent.Executor;
 import java.util.concurrent.TimeUnit;
 
 /**
- * 动脑学院-Mark老师
+ * xulinfei
  * 创建日期：2017/11/15
  * 创建时间: 17:06
  * 创建数据库连接，工厂模式
